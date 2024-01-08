@@ -35,8 +35,16 @@
 * The question: “What is the distribution of sales for Shooter games?” is answered with an appropriate chart and markdown. 
 * Charts are not in the default color and settings.
 #### Sales by Genre
-
-#### Games
+* A pie chart shows the percentage of sales each genre had in the North American market. (Group smaller “slices” together into an “other” category to create an easier to read chart) 
+* A pie chart shows the percentage of sales each genre had in the European market. (Group smaller “slices” together into an “other” category to create an easier to read chart)
+* Detailed what is included in the other category.
+* The differences and similarities between the North American and European charts are explained in markdown
+* Charts are not in the default color and settings.
+## Games Genre Count
+* A bar (or column) chart to show the total number of games created for each platform in the dataset. 
+* The results are explained in markdown.
+* The question: “What genre of game is present the most in the top 100 games from 2000-2015?” is answered with an appropriate chart and markdown
+* Charts are not in the default color and settings.
 
 
 ## References
